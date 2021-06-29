@@ -1,2 +1,2 @@
 # Python_Projects
-1) QR-code Genera
+1) QR-code Generator
