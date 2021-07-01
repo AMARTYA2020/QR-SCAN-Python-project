@@ -1,2 +1,3 @@
 # QR-SCAN Python_Project
-1) QR-code Generator
+ QR-code Generator
+Python Modules used: 1).image
