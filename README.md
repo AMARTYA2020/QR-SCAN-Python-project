@@ -1,3 +1,2 @@
-# Python_Projects
+# QR-SCAN Python_Project
 1) QR-code Generator
-2) d
